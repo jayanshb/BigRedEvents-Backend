@@ -1,4 +1,4 @@
-Big Red Events
+# Big Red Events
 
 An app that centralizes all the information about the events on Cornell's campus.
 Currently, the app allows Cornellians to know what events are happening on North Campus. Using add, one can add events according in particular locations. This information is stored on our API on a google cloud virtual machine and can be accessed when one is looking for events. Users can explore different dorms in the home tab in a tabular form, or can just search for dorms on the search bar. Users can also favourite dorms to have easy access to events in those dorms, under the favourites tab! When viewing the events, users can search for particular events, choose filters (like food, games, music, movie etc.) or simply see the table of events.
