@@ -6,5 +6,5 @@ BRE does not yet accomplish all of our envisioned features. We plan to expand an
 
 Link to iOS repository: https://github.com/jayanshb/BigRedEvents-iOS
 
-iOS: Adityavardhan Agrawal, Mihikaa Goenka 
-Backend: Shrey Baid, Jayansh Bhartiya
+Team : Shrey Baid, Jayansh Bhartiya, Adityavardhan Agrawal, Mihikaa Goenka 
+
